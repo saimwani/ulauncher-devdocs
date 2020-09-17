@@ -43,6 +43,12 @@
       "name": "ruby",
       "default_value": "ruby~2.5"
     },
+     {
+      "id": "git",
+      "type": "git",
+      "name": "git",
+      "default_value": "git"
+    },
     {
       "id": "np",
       "type": "keyword",
