@@ -44,9 +44,9 @@
       "default_value": "ruby~2.5"
     },
     {
-      "id": "np",
+      "id": "numpy",
       "type": "keyword",
-      "name": "np",
+      "name": "numpy",
       "default_value": "numpy~1.17"
     },
     {
