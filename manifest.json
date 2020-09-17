@@ -44,11 +44,18 @@
       "default_value": "ruby~2.5"
     },
     {
-      "id": "numpy",
+      "id": "np",
       "type": "keyword",
-      "name": "numpy",
+      "name": "np",
       "default_value": "numpy~1.17"
     },
+    {
+      "id": "py",
+      "type": "keyword",
+      "name": "py",
+      "default_value": "python~3.7"
+    },
+                  
     {
       "id": "open_doc_in",
       "type": "select",
